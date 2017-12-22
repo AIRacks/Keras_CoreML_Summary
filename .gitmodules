@@ -4,3 +4,6 @@ url = https://github.com/apple/coremltools.git
 [submodule "convert_tools/tf-coreml"]
 path=convert_tools/tf-coreml
 url = https://github.com/tf-coreml/tf-coreml
+[submodule "LightGBM"]
+	path = LightGBM
+	url = https://github.com/Microsoft/LightGBM
