@@ -1,6 +1,3 @@
-[submodule "tools/coremltools"]
-path=tools/coremltools
+[submodule "convert_tools/coremltools"]
+path=convert_tools/coremltools
 url = https://github.com/apple/coremltools.git
-[submodule "coremltools"]
-	path = coremltools
-	url = https://github.com/apple/coremltools.git
