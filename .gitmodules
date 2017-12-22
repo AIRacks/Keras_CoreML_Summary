@@ -1,3 +1,6 @@
 [submodule "convert_tools/coremltools"]
 path=convert_tools/coremltools
 url = https://github.com/apple/coremltools.git
+[submodule "convert_tools/tf-coreml"]
+path=convert_tools/tf-coreml
+url = https://github.com/tf-coreml/tf-coreml
